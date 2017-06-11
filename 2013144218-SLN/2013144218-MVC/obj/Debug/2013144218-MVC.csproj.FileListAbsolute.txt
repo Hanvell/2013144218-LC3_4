@@ -1,0 +1,330 @@
+J:\2013144218-SLN\2013144218-MVC\bin\ApplicationInsights.config
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.exe
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.exe.config
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.rsp
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\csi.exe
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\csi.rsp
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.AppContext.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Collections.Immutable.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.IO.FileSystem.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Reflection.Metadata.dll
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.exe
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.exe.config
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.rsp
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\VBCSCompiler.exe
+J:\2013144218-SLN\2013144218-MVC\bin\roslyn\VBCSCompiler.exe.config
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.dll.config
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.dll
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.pdb
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-ENT.dll
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Antlr3.Runtime.dll
+J:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.dll
+J:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.SqlServer.dll
+J:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.dll
+J:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.Mvc.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.DependencyCollector.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Web.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.WindowsServer.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.ApplicationInsights.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.Web.Infrastructure.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Newtonsoft.Json.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Ninject.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Common.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc.dll
+J:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc5.FluentValidation.dll
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Helpers.dll
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Mvc.dll
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Optimization.dll
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Razor.dll
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Deployment.dll
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.dll
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Razor.dll
+J:\2013144218-SLN\2013144218-MVC\bin\WebActivatorEx.dll
+J:\2013144218-SLN\2013144218-MVC\bin\WebGrease.dll
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-ENT.pdb
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.pdb
+J:\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.dll.config
+J:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.xml
+J:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.SqlServer.xml
+J:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.pdb
+J:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.xml
+J:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.Mvc.pdb
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Ninject.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Common.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc.xml
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Helpers.xml
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Mvc.xml
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Optimization.xml
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.Razor.xml
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.xml
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Deployment.xml
+J:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Razor.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Antlr3.Runtime.pdb
+J:\2013144218-SLN\2013144218-MVC\bin\Newtonsoft.Json.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.ApplicationInsights.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.DependencyCollector.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.WindowsServer.xml
+J:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Web.xml
+J:\2013144218-SLN\2013144218-MVC\bin\da\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\de\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\fi\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\fr\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\it\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\ko\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\mk\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\nl\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\pl\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\pt\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\ru\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\sv\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\tr\FluentValidation.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Helpers.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Mvc.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Optimization.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Razor.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+J:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+J:\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.csprojResolveAssemblyReference.cache
+J:\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.dll
+J:\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.pdb
+G:\2013144218-SLN\2013144218-MVC\bin\ApplicationInsights.config
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.exe
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.exe.config
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.rsp
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\csi.exe
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\csi.rsp
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.AppContext.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Collections.Immutable.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.IO.FileSystem.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Reflection.Metadata.dll
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.exe
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.exe.config
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.rsp
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\VBCSCompiler.exe
+G:\2013144218-SLN\2013144218-MVC\bin\roslyn\VBCSCompiler.exe.config
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.dll.config
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.dll
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.pdb
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-ENT.dll
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Antlr3.Runtime.dll
+G:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.dll
+G:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.SqlServer.dll
+G:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.dll
+G:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.Mvc.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.DependencyCollector.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Web.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.WindowsServer.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.ApplicationInsights.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.Web.Infrastructure.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Newtonsoft.Json.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Ninject.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Common.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc.dll
+G:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc5.FluentValidation.dll
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Helpers.dll
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Mvc.dll
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Optimization.dll
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Razor.dll
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Deployment.dll
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.dll
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Razor.dll
+G:\2013144218-SLN\2013144218-MVC\bin\WebActivatorEx.dll
+G:\2013144218-SLN\2013144218-MVC\bin\WebGrease.dll
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-ENT.pdb
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.pdb
+G:\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.dll.config
+G:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.xml
+G:\2013144218-SLN\2013144218-MVC\bin\EntityFramework.SqlServer.xml
+G:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.pdb
+G:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.xml
+G:\2013144218-SLN\2013144218-MVC\bin\FluentValidation.Mvc.pdb
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Ninject.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Common.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc.xml
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Helpers.xml
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Mvc.xml
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Optimization.xml
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.Razor.xml
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.xml
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Deployment.xml
+G:\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Razor.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Antlr3.Runtime.pdb
+G:\2013144218-SLN\2013144218-MVC\bin\Newtonsoft.Json.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.ApplicationInsights.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.DependencyCollector.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.WindowsServer.xml
+G:\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Web.xml
+G:\2013144218-SLN\2013144218-MVC\bin\da\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\de\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\fi\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\fr\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\it\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\ko\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\mk\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\nl\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\pl\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\pt\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\ru\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\sv\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\tr\FluentValidation.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Helpers.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Mvc.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Optimization.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Razor.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.csprojResolveAssemblyReference.cache
+G:\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.dll
+G:\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.pdb
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\ApplicationInsights.config
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.exe
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.exe.config
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\csc.rsp
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\csi.exe
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\csi.rsp
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.exe
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.exe.config
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\vbc.rsp
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.dll.config
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-MVC.pdb
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-ENT.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Antlr3.Runtime.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\EntityFramework.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\FluentValidation.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\FluentValidation.Mvc.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Newtonsoft.Json.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Ninject.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Common.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc5.FluentValidation.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Helpers.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Mvc.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Optimization.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Razor.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\WebActivatorEx.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\WebGrease.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-ENT.pdb
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.pdb
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\2013144218-PER.dll.config
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\EntityFramework.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\FluentValidation.pdb
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\FluentValidation.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\FluentValidation.Mvc.pdb
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Ninject.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Common.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Helpers.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Mvc.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Optimization.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.Razor.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Newtonsoft.Json.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\da\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\de\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\fi\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\fr\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\it\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\ko\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\mk\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\nl\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\pl\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\pt\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\ru\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\sv\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\tr\FluentValidation.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.csprojResolveAssemblyReference.cache
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.dll
+C:\Users\HANSON PC2\Documents\Visual Studio 2017\2013144218-SLN\2013144218-MVC\obj\Debug\2013144218-MVC.pdb

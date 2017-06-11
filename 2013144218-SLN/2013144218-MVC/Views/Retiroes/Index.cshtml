@@ -1,0 +1,82 @@
+﻿@model IEnumerable<_2013144218_ENT.Entidades.Retiro>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ATM.idATM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dispensadorefectivo.idDispensadorefectivo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Pantalla.idPantalla)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Teclado.Marca)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Monto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idATM)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idTeclado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idPantalla)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idDispensadorEfectivo)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ATM.idATM)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dispensadorefectivo.idDispensadorefectivo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pantalla.idPantalla)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Teclado.Marca)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Monto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.idATM)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.idTeclado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.idPantalla)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.idDispensadorEfectivo)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.idRetiro }) |
+            @Html.ActionLink("Details", "Details", new { id=item.idRetiro }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.idRetiro })
+        </td>
+    </tr>
+}
+
+</table>

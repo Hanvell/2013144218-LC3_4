@@ -1,0 +1,91 @@
+﻿@model _2013144218_ENT.Entidades.Retiro
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Retiro</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ATM.idATM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ATM.idATM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Dispensadorefectivo.idDispensadorefectivo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Dispensadorefectivo.idDispensadorefectivo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Pantalla.idPantalla)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Pantalla.idPantalla)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Teclado.Marca)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Teclado.Marca)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Monto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Monto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idATM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idATM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idTeclado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idTeclado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idPantalla)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idPantalla)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.idDispensadorEfectivo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.idDispensadorEfectivo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.idRetiro }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
